@@ -1,0 +1,10 @@
+Calculate the perimeter of the rectangle.
+Determine the volume of a cylinder.
+Compute the sum of the angles in a triangle.
+Solve for x in the equation 2x + 5 = 15.
+Find the circumference of a circle.
+Evaluate the expression: 3a - 7b when a = 4 and b = 2.
+Identify the hypotenuse in a right-angled triangle.
+Derive the quadratic formula.
+Simplify the square root of 36.
+Graph the linear equation y = 2x + 3.
