@@ -1,0 +1,149 @@
+ITEM,POPULATION TYPE,OCCURRENCES,POPULATION COUNT,PREVALENCE RATE,PREVALENCE PERCENTAGE
+Viral Sinusitis (Disorder),LIVING,868,1000,0.868,86.8
+Streptococcal Sore Throat (Disorder),LIVING,487,1000,0.487,48.7
+Laceration Of Thigh,LIVING,117,1000,0.117,11.7
+Acute Viral Pharyngitis (Disorder),LIVING,772,1000,0.772,77.2
+Acute Bronchitis (Disorder),LIVING,749,1000,0.749,74.9
+Cystitis,LIVING,58,1000,0.058,5.8
+Normal Pregnancy,LIVING,340,1000,0.34,34.0
+Escherichia Coli Urinary Tract Infection,LIVING,78,1000,0.078,7.8
+Otitis Media,LIVING,699,1000,0.699,69.9
+Fracture Subluxation Of Wrist,LIVING,110,1000,0.11,11.0
+Injury Of Anterior Cruciate Ligament,LIVING,22,1000,0.022,2.2
+Fracture Of Forearm,LIVING,122,1000,0.122,12.2
+Laceration Of Foot,LIVING,91,1000,0.091,9.1
+Suspected Lung Cancer (Situation),LIVING,0,1000,0.0,0.0
+Non Small Cell Lung Cancer (Disorder),LIVING,0,1000,0.0,0.0
+Non Small Cell Carcinoma Of Lung Tnm Stage 4 (Disorder),LIVING,0,1000,0.0,0.0
+Sinusitis (Disorder),LIVING,189,1000,0.189,18.9
+Chronic Sinusitis (Disorder),LIVING,202,1000,0.202,20.2
+Preeclampsia,LIVING,66,1000,0.066,6.6
+Antepartum Eclampsia,LIVING,79,1000,0.079,7.9
+Concussion With No Loss Of Consciousness,LIVING,200,1000,0.2,20.0
+Prediabetes,LIVING,232,1000,0.232,23.2
+Diabetes,LIVING,49,1000,0.049,4.9
+Diabetic Retinopathy Associated With Type Ii Diabetes Mellitus (Disorder),LIVING,18,1000,0.018,1.8
+Nonproliferative Diabetic Retinopathy Due To Type 2 Diabetes Mellitus (Disorder),LIVING,11,1000,0.011,1.1
+Macular Edema And Retinopathy Due To Type 2 Diabetes Mellitus (Disorder),LIVING,2,1000,0.002,0.2
+Diabetic Renal Disease (Disorder),LIVING,13,1000,0.013,1.3
+Fracture Of Rib,LIVING,52,1000,0.052,5.2
+Whiplash Injury To Neck,LIVING,150,1000,0.15,15.0
+Hypertension,LIVING,238,1000,0.238,23.8
+Chronic Obstructive Bronchitis (Disorder),LIVING,21,1000,0.021,2.1
+Acute Bacterial Sinusitis (Disorder),LIVING,180,1000,0.18,18.0
+Neuropathy Due To Type 2 Diabetes Mellitus (Disorder),LIVING,23,1000,0.023,2.3
+Stroke,LIVING,40,1000,0.04,4.0
+Sprain Of Wrist,LIVING,188,1000,0.188,18.8
+Laceration Of Hand,LIVING,113,1000,0.113,11.3
+Miscarriage In First Trimester,LIVING,117,1000,0.117,11.7
+Fetus With Chromosomal Abnormality,LIVING,91,1000,0.091,9.1
+Osteoarthritis Of Hip,LIVING,14,1000,0.014,1.4
+Osteoporosis (Disorder),LIVING,31,1000,0.031,3.1
+Pathological Fracture Due To Osteoporosis (Disorder),LIVING,15,1000,0.015,1.5
+Facial Laceration,LIVING,103,1000,0.103,10.3
+Childhood Asthma,LIVING,40,1000,0.04,4.0
+Bullet Wound,LIVING,5,1000,0.005,0.5
+Asthma,LIVING,24,1000,0.024,2.4
+First Degree Burn,LIVING,77,1000,0.077,7.7
+Pulmonary Emphysema (Disorder),LIVING,10,1000,0.01,1.0
+Child Attention Deficit Disorder,LIVING,86,1000,0.086,8.6
+Sprain Of Ankle,LIVING,367,1000,0.367,36.7
+
+DATE,PATIENT,ENCOUNTER,CODE,DESCRIPTION,VALUE,UNITS
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,8302-2,Body Height,166.03,cm
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,29463-7,Body Weight,54.42,kg
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,39156-5,Body Mass Index,19.74,kg/m2
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,8480-6,Systolic Blood Pressure,139.0,mmHg
+2008-03-11,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,8462-4,Diastolic Blood Pressure,89.0,mmHg
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,8302-2,Body Height,166.04,cm
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,29463-7,Body Weight,55.94,kg
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,39156-5,Body Mass Index,20.29,kg/m2
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,8480-6,Systolic Blood Pressure,105.0,mmHg
+2009-04-07,71949668-1c2e-43ae-ab0a-64654608defb,bdb926b8-5b6d-4366-bbe9-76fe3f3fbc4f,8462-4,Diastolic Blood Pressure,82.0,mmHg
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,8302-2,Body Height,166.04,cm
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,29463-7,Body Weight,61.97,kg
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,39156-5,Body Mass Index,22.48,kg/m2
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,8480-6,Systolic Blood Pressure,127.0,mmHg
+2012-07-02,71949668-1c2e-43ae-ab0a-64654608defb,36796523-2672-4680-84c5-2d9a2b080ddb,8462-4,Diastolic Blood Pressure,89.0,mmHg
+2014-02-01,71949668-1c2e-43ae-ab0a-64654608defb,b2e12445-b771-4738-944b-95cf6bbe76eb,8331-1,Oral temperature,38.0,Cel
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,8302-2,Body Height,166.04,cm
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,29463-7,Body Weight,64.83,kg
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,39156-5,Body Mass Index,23.51,kg/m2
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,8480-6,Systolic Blood Pressure,111.0,mmHg
+2015-05-03,71949668-1c2e-43ae-ab0a-64654608defb,323e1478-fdbf-4904-80a6-2b7e4526fc22,8462-4,Diastolic Blood Pressure,70.0,mmHg
+2017-10-31,71949668-1c2e-43ae-ab0a-64654608defb,,273724008,Quality adjusted life years,29,years
+2017-10-31,71949668-1c2e-43ae-ab0a-64654608defb,,273421001,Disability rating scale,0,years
+1987-11-06,c2caaace-9119-4b2d-a2c3-4040f5a9cf32,c35264e2-404f-4890-adc7-b5ce85e3901f,254637007,Non-small cell lung cancer (disorder),,
+2017-10-31,c2caaace-9119-4b2d-a2c3-4040f5a9cf32,,273724008,Quality adjusted life years,50.98982701384954,years
+2017-10-31,c2caaace-9119-4b2d-a2c3-4040f5a9cf32,,273421001,Disability rating scale,36.723632986150456,years
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.3,%
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,8302-2,Body Height,164.43,cm
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,29463-7,Body Weight,106.16,kg
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,39156-5,Body Mass Index,39.27,kg/m2
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,8480-6,Systolic Blood Pressure,123.0,mmHg
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,8462-4,Diastolic Blood Pressure,89.0,mmHg
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2.3,%
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,2339-0,Glucose,70.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,6299-2,Urea Nitrogen,14.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,38483-4,Creatinine,1.0,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,49765-1,Calcium,9.23,mg/dL
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,2947-0,Sodium,137.0,mmol/L
+2008-06-02,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,6298-4,Potassium,4.67,mmol/L
+
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+1988-09-05,,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,834060,Penicillin V Potassium 250 MG,43878008,Streptococcal sore throat (disorder)
+2007-06-04,2008-06-04,71949668-1c2e-43ae-ab0a-64654608defb,5114a5b4-64b8-47b2-82a6-0ce24aae0943,1367439,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,,
+2009-01-11,2009-01-21,71949668-1c2e-43ae-ab0a-64654608defb,4d451e22-a354-40c9-8b33-b6126158666d,608680,Acetaminophen 160 MG,10509002,Acute bronchitis (disorder)
+2010-06-04,2011-06-04,71949668-1c2e-43ae-ab0a-64654608defb,f45c623f-a5e7-47a0-8cce-cfe19d16c47a,748879,Levora 0.15/30 28 Day Pack,,
+2010-10-16,2010-10-23,71949668-1c2e-43ae-ab0a-64654608defb,bed7ecff-b41c-422b-beac-ea00c8b02837,568530,Nitrofurantoin 5 MG/ML [Furadantin],38822007,Cystitis
+2010-10-16,2010-10-23,71949668-1c2e-43ae-ab0a-64654608defb,bed7ecff-b41c-422b-beac-ea00c8b02837,1094108,Phenazopyridine hydrochloride 100 MG [Pyridium],38822007,Cystitis
+2013-02-09,2013-02-27,71949668-1c2e-43ae-ab0a-64654608defb,6f2e3935-b203-493e-a9c0-f23e847b9798,1020137,Dextromethorphan Hydrobromide 1 MG/ML,10509002,Acute bronchitis (disorder)
+2016-06-04,2017-06-04,71949668-1c2e-43ae-ab0a-64654608defb,8ae1f76d-fdf1-40b7-9c9d-66b530701d9d,1111011,Nexplanon 68 MG Drug Implant,,
+2017-01-19,2017-01-26,71949668-1c2e-43ae-ab0a-64654608defb,1c93058f-eeb2-4659-a712-74e183877e9a,568530,Nitrofurantoin 5 MG/ML [Furadantin],301011002,Escherichia coli urinary tract infection
+2017-01-19,2017-02-02,71949668-1c2e-43ae-ab0a-64654608defb,1c93058f-eeb2-4659-a712-74e183877e9a,1094108,Phenazopyridine hydrochloride 100 MG [Pyridium],301011002,Escherichia coli urinary tract infection
+2017-01-26,2017-02-02,71949668-1c2e-43ae-ab0a-64654608defb,23c293ec-dbae-4a22-896e-f12cf3c8bac3,1648767,NITROFURANTOIN  MACROCRYSTALS 50 MG [Macrodantin],301011002,Escherichia coli urinary tract infection
+1943-04-13,,c2caaace-9119-4b2d-a2c3-4040f5a9cf32,c35264e2-404f-4890-adc7-b5ce85e3901f,834060,Penicillin V Potassium 250 MG,43878008,Streptococcal sore throat (disorder)
+1948-11-05,,c2caaace-9119-4b2d-a2c3-4040f5a9cf32,c35264e2-404f-4890-adc7-b5ce85e3901f,834060,Penicillin V Potassium 250 MG,43878008,Streptococcal sore throat (disorder)
+1951-05-26,,c2caaace-9119-4b2d-a2c3-4040f5a9cf32,c35264e2-404f-4890-adc7-b5ce85e3901f,1049221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,,
+1943-12-11,,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,834060,Penicillin V Potassium 250 MG,43878008,Streptococcal sore throat (disorder)
+1960-03-10,,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,834101,Penicillin V Potassium 500 MG,43878008,Streptococcal sore throat (disorder)
+1990-04-18,,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006,Diabetes
+2000-10-25,,96b24072-e1fe-49cd-a22a-6dfb92c3994c,4e7beaee-50c2-4609-8a2b-b32fb3dc5a3b,106892,Insulin Lispro 100 UNT/ML Injectable Solution [Humalog],44054006,Diabetes
+2010-06-22,2010-09-22,96b24072-e1fe-49cd-a22a-6dfb92c3994c,24293a59-d876-418c-9630-8e4f3731bd70,313782,Acetaminophen 325 MG Oral Tablet,,
+1937-04-06,,de43eb48-496c-46d4-8c5b-be6125a38c15,febdc129-bd41-4b7c-b1e7-a4ce07931544,834060,Penicillin V Potassium 250 MG,43878008,Streptococcal sore throat (disorder)
+1960-10-05,,de43eb48-496c-46d4-8c5b-be6125a38c15,febdc129-bd41-4b7c-b1e7-a4ce07931544,896188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],185086009,Chronic obstructive bronchitis (disorder)
+1974-09-04,,de43eb48-496c-46d4-8c5b-be6125a38c15,febdc129-bd41-4b7c-b1e7-a4ce07931544,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006,Diabetes
+2013-10-11,2013-10-28,79266ca2-b4e3-45e5-af65-7914bd4511a0,79b72d67-57c3-4312-a365-c0a995a0e616,313782,Acetaminophen 325 MG Oral Tablet,,
+2001-03-02,,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,849727,Naproxen sodium 220 MG [Aleve],239872002,Osteoarthritis of hip
+2001-12-25,,31410948-38be-4990-be5e-a47ab44f33a1,2bde1679-1291-40e7-90ec-b03ce8177f59,904420,Alendronic acid 10 MG [Fosamax],,
+2016-05-11,2016-07-18,b1943aad-500b-4b22-8da8-b4d9c667c763,96289770-54b8-42f2-ae54-8827a76d3da9,310965,Ibuprofen 200 MG Oral Tablet,,
+1936-06-07,,443a0255-5584-45d9-93ca-9174f1d45f03,d09da4d8-a1b3-4f15-8d76-30aa213ce933,895994,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,233678006,Childhood asthma
+1936-06-07,,443a0255-5584-45d9-93ca-9174f1d45f03,d09da4d8-a1b3-4f15-8d76-30aa213ce933,745679,200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,233678006,Childhood asthma
+1965-03-31,,443a0255-5584-45d9-93ca-9174f1d45f03,d09da4d8-a1b3-4f15-8d76-30aa213ce933,834101,Penicillin V Potassium 500 MG,43878008,Streptococcal sore throat (disorder)
+1979-11-19,,443a0255-5584-45d9-93ca-9174f1d45f03,d09da4d8-a1b3-4f15-8d76-30aa213ce933,896188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],87433001,Pulmonary emphysema (disorder)
+1981-07-10,,443a0255-5584-45d9-93ca-9174f1d45f03,d09da4d8-a1b3-4f15-8d76-30aa213ce933,834101,Penicillin V Potassium 500 MG,43878008,Streptococcal sore throat (disorder)
+2014-07-23,2014-09-19,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,1468e3c2-fb6c-43f6-a9f5-e78a8d43a4eb,282464,Acetaminophen 160 MG Oral Tablet,,
+2017-08-23,2017-10-03,00630ce3-e8eb-4ed4-889b-2c0ac257cbf4,f49481c5-a664-485b-a378-825e0dd28f58,849574,Naproxen sodium 220 MG Oral Tablet,,
+1922-01-16,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,834060,Penicillin V Potassium 250 MG,43878008,Streptococcal sore throat (disorder)
+1982-05-26,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,1803932,Leucovorin 100 MG Injection,109838007,Overlapping malignant neoplasm of colon
+1982-05-26,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,575971,oxaliplatin 5 MG/ML [Eloxatin],109838007,Overlapping malignant neoplasm of colon
+1982-06-28,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,1803932,Leucovorin 100 MG Injection,109838007,Overlapping malignant neoplasm of colon
+1982-06-28,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,575971,oxaliplatin 5 MG/ML [Eloxatin],109838007,Overlapping malignant neoplasm of colon
+1982-08-01,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,1803932,Leucovorin 100 MG Injection,109838007,Overlapping malignant neoplasm of colon
+1982-08-01,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,575971,oxaliplatin 5 MG/ML [Eloxatin],109838007,Overlapping malignant neoplasm of colon
+1982-08-30,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,1803932,Leucovorin 100 MG Injection,109838007,Overlapping malignant neoplasm of colon
+1982-08-30,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,575971,oxaliplatin 5 MG/ML [Eloxatin],109838007,Overlapping malignant neoplasm of colon
+1982-10-02,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,1803932,Leucovorin 100 MG Injection,109838007,Overlapping malignant neoplasm of colon
+1982-10-02,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,575971,oxaliplatin 5 MG/ML [Eloxatin],109838007,Overlapping malignant neoplasm of colon
+1982-11-04,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,1803932,Leucovorin 100 MG Injection,109838007,Overlapping malignant neoplasm of colon
+1982-11-04,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,575971,oxaliplatin 5 MG/ML [Eloxatin],109838007,Overlapping malignant neoplasm of colon
+2001-12-30,,2c884d0f-62a1-4371-becc-36a98cdc4f52,167eec66-7977-4919-942d-e5949dea8f6b,904420,Alendronic acid 10 MG [Fosamax],,
+2011-02-27,2011-04-02,2c884d0f-62a1-4371-becc-36a98cdc4f52,1068e3ac-bf66-4be7-af8d-825c569c8b37,310965,Ibuprofen 200 MG Oral Tablet,,
+2013-03-02,2013-03-11,2c884d0f-62a1-4371-becc-36a98cdc4f52,1068e3ac-bf66-4be7-af8d-825c569c8b37,608680,Acetaminophen 160 MG,10509002,Acute bronchitis (disorder)
+2008-10-12,2008-12-23,b545c170-d612-420b-8540-23b6ceaf904d,cdb6cbd2-6e9e-4e7e-9c2a-d95e1fc86f2a,282464,Acetaminophen 160 MG Oral Tablet,,
+1975-03-22,,16077486-5747-4abe-8321-ba290fb7197c,c119ac1a-0d3b-4094-9fd9-49a3c100237e,834101,Penicillin V Potassium 500 MG,43878008,Streptococcal sore throat (disorder)
+1998-01-14,,16077486-5747-4abe-8321-ba290fb7197c,c119ac1a-0d3b-4094-9fd9-49a3c100237e,1359133,Estrostep Fe 28 Day Pack,,
+1999-03-30,,0853f544-fdef-4464-8745-239cccfe94b2,6b70a732-1d42-479b-8392-f24f7f385797,834060,Penicillin V Potassium 250 MG,43878008,Streptococcal sore throat (disorder)
+2008-05-25,2009-05-25,0853f544-fdef-4464-8745-239cccfe94b2,6b70a732-1d42-479b-8392-f24f7f385797,751905,Trinessa 28 Day Pack,,
+2009-05-25,2010-05-25,0853f544-fdef-4464-8745-239cccfe94b2,e670f84e-e500-4033-be13-02a1229ea189,1000158,0.65 ML depo-subQ provera 160 MG/ML Prefilled Syringe,,
+2009-09-28,2009-10-28,0853f544-fdef-4464-8745-239cccfe94b2,3cf09bbd-51ca-4c5d-be22-e879f78b970a,861467,Meperidine Hydrochloride 50 MG Oral Tablet,,
